@@ -1,13 +1,11 @@
 import './App.css'
 import ManagerStudent from './components/ManagerStudent'
-import ToDoList from './components/ToDoList'
+// import ToDoList from './components/ToDoList'
 function App() {
-  
-
   return (
     <>
-      <ToDoList/>
-      <div>============================</div>
+      {/* <ToDoList/> */}
+      {/* <div>============================</div> */}
       <ManagerStudent/>
     </>
   )
